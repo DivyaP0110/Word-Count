@@ -39,8 +39,8 @@ End the program
 
 ```python
 # Program to find the number of words in a text file
-# Developed by : KAMESH RR
-# Register number : 212223230095
+# Developed by : VIRUMAA HARISH M
+# Register number : 212223230246
 num=0
 with open("story.txt","r") as f1:
     for i in f1:
